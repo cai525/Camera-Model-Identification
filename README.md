@@ -25,3 +25,6 @@
  ## 原理与实验
  采用vgg16进行分类，具体的操作见算法简述以及ipynb文件。     
  该程序在验证集中取得了98%的准确率。
+
+> 备注：
+> 如需参考请附上链接：https://github.com/cai525/Camera-Model-Identification
