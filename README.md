@@ -28,3 +28,4 @@
 
 > 备注：
 > 如需参考请附上链接：https://github.com/cai525/Camera-Model-Identification
+> 见鬼，现在看代码太乱了，如果真有打算参考的，嗯...努力重构吧（2023-03-16）
